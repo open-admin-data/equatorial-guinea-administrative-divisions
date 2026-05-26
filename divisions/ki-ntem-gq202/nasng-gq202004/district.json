@@ -1,0 +1,45 @@
+{
+  "id": "GQ202004",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nasng",
+    "en": "Nasng",
+    "slug": "nasng-gq202004"
+  },
+  "code": {
+    "id": "GQ202004",
+    "iso": null
+  },
+  "parent": {
+    "id": "GQ202",
+    "level": 1,
+    "name": {
+      "local": "Kié-Ntem",
+      "en": "Kié-Ntem",
+      "slug": "ki-ntem-gq202"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GQ202",
+      "level": 1,
+      "name": {
+        "local": "Kié-Ntem",
+        "en": "Kié-Ntem",
+        "slug": "ki-ntem-gq202"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.983",
+    "lon": "11.025"
+  },
+  "metadata": {},
+  "source": {}
+}

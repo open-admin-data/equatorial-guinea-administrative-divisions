@@ -1,0 +1,25 @@
+# Equatorial Guinea Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Per-Province Data Files
+
+- [Annobón](https://github.com/open-admin-data/equatorial-guinea-administrative-divisions/blob/main/docs/llms-full/annobn-gq198.txt) — 2 districts
+- [Bioko Norte](https://github.com/open-admin-data/equatorial-guinea-administrative-divisions/blob/main/docs/llms-full/bioko-norte-gq199.txt) — 3 districts
+- [Bioko Sur](https://github.com/open-admin-data/equatorial-guinea-administrative-divisions/blob/main/docs/llms-full/bioko-sur-gq200.txt) — 2 districts
+- [Centro Sur](https://github.com/open-admin-data/equatorial-guinea-administrative-divisions/blob/main/docs/llms-full/centro-sur-gq201.txt) — 5 districts
+- [Kié-Ntem](https://github.com/open-admin-data/equatorial-guinea-administrative-divisions/blob/main/docs/llms-full/ki-ntem-gq202.txt) — 6 districts
+- [Litoral](https://github.com/open-admin-data/equatorial-guinea-administrative-divisions/blob/main/docs/llms-full/litoral-gq203.txt) — 7 districts
+- [Wele-Nzas](https://github.com/open-admin-data/equatorial-guinea-administrative-divisions/blob/main/docs/llms-full/wele-nzas-gq204.txt) — 7 districts
+
+## Summary
+
+| Province | Districts | 
+|---|---|
+| Annobón | 2 | 
+| Bioko Norte | 3 | 
+| Bioko Sur | 2 | 
+| Centro Sur | 5 | 
+| Kié-Ntem | 6 | 
+| Litoral | 7 | 
+| Wele-Nzas | 7 | 

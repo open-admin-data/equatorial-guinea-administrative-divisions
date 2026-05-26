@@ -1,0 +1,29 @@
+{
+  "id": "GQ198",
+  "level": 1,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Annobón",
+    "en": "Annobón",
+    "slug": "annobn-gq198"
+  },
+  "code": {
+    "id": "GQ198",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.435",
+    "lon": "5.639"
+  },
+  "metadata": {},
+  "source": {}
+}

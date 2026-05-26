@@ -1,0 +1,64 @@
+# Equatorial Guinea Administrative Divisions
+
+> Open dataset of Equatorial Guinea's administrative hierarchy:
+> 7 provinces, 32 districts.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total provinces: 7
+- Total districts: 32
+- Coordinates: included (all levels)
+- Last updated: 2026-05-26
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All provinces (JSON)](https://raw.githubusercontent.com/open-admin-data/equatorial-guinea-administrative-divisions/main/data/all-province.json)
+- [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/equatorial-guinea-administrative-divisions/main/data/all-district.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/equatorial-guinea-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/equatorial-guinea-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/equatorial-guinea-administrative-divisions/main/data/schema.json)
+
+## Browse by Province
+
+- [Annobón](https://github.com/open-admin-data/equatorial-guinea-administrative-divisions/tree/main/divisions/annobn-gq198/) — 2 districts
+- [Bioko Norte](https://github.com/open-admin-data/equatorial-guinea-administrative-divisions/tree/main/divisions/bioko-norte-gq199/) — 3 districts
+- [Bioko Sur](https://github.com/open-admin-data/equatorial-guinea-administrative-divisions/tree/main/divisions/bioko-sur-gq200/) — 2 districts
+- [Centro Sur](https://github.com/open-admin-data/equatorial-guinea-administrative-divisions/tree/main/divisions/centro-sur-gq201/) — 5 districts
+- [Kié-Ntem](https://github.com/open-admin-data/equatorial-guinea-administrative-divisions/tree/main/divisions/ki-ntem-gq202/) — 6 districts
+- [Litoral](https://github.com/open-admin-data/equatorial-guinea-administrative-divisions/tree/main/divisions/litoral-gq203/) — 7 districts
+- [Wele-Nzas](https://github.com/open-admin-data/equatorial-guinea-administrative-divisions/tree/main/divisions/wele-nzas-gq204/) — 7 districts
+
+## Per-Province Full Data
+
+- [Annobón](https://raw.githubusercontent.com/open-admin-data/equatorial-guinea-administrative-divisions/main/docs/llms-full/annobn-gq198.txt)
+- [Bioko Norte](https://raw.githubusercontent.com/open-admin-data/equatorial-guinea-administrative-divisions/main/docs/llms-full/bioko-norte-gq199.txt)
+- [Bioko Sur](https://raw.githubusercontent.com/open-admin-data/equatorial-guinea-administrative-divisions/main/docs/llms-full/bioko-sur-gq200.txt)
+- [Centro Sur](https://raw.githubusercontent.com/open-admin-data/equatorial-guinea-administrative-divisions/main/docs/llms-full/centro-sur-gq201.txt)
+- [Kié-Ntem](https://raw.githubusercontent.com/open-admin-data/equatorial-guinea-administrative-divisions/main/docs/llms-full/ki-ntem-gq202.txt)
+- [Litoral](https://raw.githubusercontent.com/open-admin-data/equatorial-guinea-administrative-divisions/main/docs/llms-full/litoral-gq203.txt)
+- [Wele-Nzas](https://raw.githubusercontent.com/open-admin-data/equatorial-guinea-administrative-divisions/main/docs/llms-full/wele-nzas-gq204.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (province), 2 (district)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Equatorial Guinea Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/equatorial-guinea-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

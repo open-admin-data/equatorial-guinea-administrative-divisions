@@ -1,0 +1,24 @@
+# Bioko Norte — Equatorial Guinea Administrative Divisions
+
+> 3 districts
+> Code: GQ199
+> Coordinates: 3.662, 8.775
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Districts
+
+### Baney
+
+Code: GQ199001, Coordinates: 3.626, 8.81
+
+
+### Malabo
+
+Code: GQ199002, Coordinates: 3.728, 8.75
+
+
+### Rebola
+
+Code: GQ199003, Coordinates: 3.703, 8.873
+
+

@@ -1,0 +1,317 @@
+[
+  {
+    "id": "GQ203001",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bata",
+      "en": "Bata",
+      "slug": "bata-gq203001"
+    },
+    "code": {
+      "id": "GQ203001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ203",
+      "level": 1,
+      "name": {
+        "local": "Litoral",
+        "en": "Litoral",
+        "slug": "litoral-gq203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ203",
+        "level": 1,
+        "name": {
+          "local": "Litoral",
+          "en": "Litoral",
+          "slug": "litoral-gq203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.738",
+      "lon": "9.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ203002",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bitica",
+      "en": "Bitica",
+      "slug": "bitica-gq203002"
+    },
+    "code": {
+      "id": "GQ203002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ203",
+      "level": 1,
+      "name": {
+        "local": "Litoral",
+        "en": "Litoral",
+        "slug": "litoral-gq203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ203",
+        "level": 1,
+        "name": {
+          "local": "Litoral",
+          "en": "Litoral",
+          "slug": "litoral-gq203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.424",
+      "lon": "9.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ203003",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cogo",
+      "en": "Cogo",
+      "slug": "cogo-gq203003"
+    },
+    "code": {
+      "id": "GQ203003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ203",
+      "level": 1,
+      "name": {
+        "local": "Litoral",
+        "en": "Litoral",
+        "slug": "litoral-gq203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ203",
+        "level": 1,
+        "name": {
+          "local": "Litoral",
+          "en": "Litoral",
+          "slug": "litoral-gq203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.2",
+      "lon": "9.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ203004",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Corisco",
+      "en": "Corisco",
+      "slug": "corisco-gq203004"
+    },
+    "code": {
+      "id": "GQ203004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ203",
+      "level": 1,
+      "name": {
+        "local": "Litoral",
+        "en": "Litoral",
+        "slug": "litoral-gq203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ203",
+        "level": 1,
+        "name": {
+          "local": "Litoral",
+          "en": "Litoral",
+          "slug": "litoral-gq203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.914",
+      "lon": "9.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ203005",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Machinda",
+      "en": "Machinda",
+      "slug": "machinda-gq203005"
+    },
+    "code": {
+      "id": "GQ203005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ203",
+      "level": 1,
+      "name": {
+        "local": "Litoral",
+        "en": "Litoral",
+        "slug": "litoral-gq203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ203",
+        "level": 1,
+        "name": {
+          "local": "Litoral",
+          "en": "Litoral",
+          "slug": "litoral-gq203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.087",
+      "lon": "9.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ203006",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mbini",
+      "en": "Mbini",
+      "slug": "mbini-gq203006"
+    },
+    "code": {
+      "id": "GQ203006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ203",
+      "level": 1,
+      "name": {
+        "local": "Litoral",
+        "en": "Litoral",
+        "slug": "litoral-gq203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ203",
+        "level": 1,
+        "name": {
+          "local": "Litoral",
+          "en": "Litoral",
+          "slug": "litoral-gq203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.366",
+      "lon": "9.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ203007",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rio Campo",
+      "en": "Rio Campo",
+      "slug": "rio-campo-gq203007"
+    },
+    "code": {
+      "id": "GQ203007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ203",
+      "level": 1,
+      "name": {
+        "local": "Litoral",
+        "en": "Litoral",
+        "slug": "litoral-gq203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ203",
+        "level": 1,
+        "name": {
+          "local": "Litoral",
+          "en": "Litoral",
+          "slug": "litoral-gq203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.02",
+      "lon": "9.898"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

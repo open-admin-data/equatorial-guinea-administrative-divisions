@@ -1,0 +1,45 @@
+{
+  "id": "GQ203002",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bitica",
+    "en": "Bitica",
+    "slug": "bitica-gq203002"
+  },
+  "code": {
+    "id": "GQ203002",
+    "iso": null
+  },
+  "parent": {
+    "id": "GQ203",
+    "level": 1,
+    "name": {
+      "local": "Litoral",
+      "en": "Litoral",
+      "slug": "litoral-gq203"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GQ203",
+      "level": 1,
+      "name": {
+        "local": "Litoral",
+        "en": "Litoral",
+        "slug": "litoral-gq203"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.424",
+    "lon": "9.976"
+  },
+  "metadata": {},
+  "source": {}
+}

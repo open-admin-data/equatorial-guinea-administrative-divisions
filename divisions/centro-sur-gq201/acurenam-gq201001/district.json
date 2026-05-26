@@ -1,0 +1,45 @@
+{
+  "id": "GQ201001",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "Acurenam",
+    "en": "Acurenam",
+    "slug": "acurenam-gq201001"
+  },
+  "code": {
+    "id": "GQ201001",
+    "iso": null
+  },
+  "parent": {
+    "id": "GQ201",
+    "level": 1,
+    "name": {
+      "local": "Centro Sur",
+      "en": "Centro Sur",
+      "slug": "centro-sur-gq201"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GQ201",
+      "level": 1,
+      "name": {
+        "local": "Centro Sur",
+        "en": "Centro Sur",
+        "slug": "centro-sur-gq201"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.195",
+    "lon": "10.529"
+  },
+  "metadata": {},
+  "source": {}
+}

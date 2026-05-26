@@ -1,0 +1,45 @@
+{
+  "id": "GQ203001",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bata",
+    "en": "Bata",
+    "slug": "bata-gq203001"
+  },
+  "code": {
+    "id": "GQ203001",
+    "iso": null
+  },
+  "parent": {
+    "id": "GQ203",
+    "level": 1,
+    "name": {
+      "local": "Litoral",
+      "en": "Litoral",
+      "slug": "litoral-gq203"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GQ203",
+      "level": 1,
+      "name": {
+        "local": "Litoral",
+        "en": "Litoral",
+        "slug": "litoral-gq203"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.738",
+    "lon": "9.863"
+  },
+  "metadata": {},
+  "source": {}
+}

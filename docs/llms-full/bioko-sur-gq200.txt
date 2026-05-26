@@ -1,0 +1,19 @@
+# Bioko Sur — Equatorial Guinea Administrative Divisions
+
+> 2 districts
+> Code: GQ200
+> Coordinates: 3.427, 8.622
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Districts
+
+### Luba
+
+Code: GQ200001, Coordinates: 3.426, 8.568
+
+
+### Riaba
+
+Code: GQ200002, Coordinates: 3.407, 8.744
+
+

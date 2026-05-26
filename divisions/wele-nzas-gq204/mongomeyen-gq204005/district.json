@@ -1,0 +1,45 @@
+{
+  "id": "GQ204005",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mongomeyen",
+    "en": "Mongomeyen",
+    "slug": "mongomeyen-gq204005"
+  },
+  "code": {
+    "id": "GQ204005",
+    "iso": null
+  },
+  "parent": {
+    "id": "GQ204",
+    "level": 1,
+    "name": {
+      "local": "Wele-Nzas",
+      "en": "Wele-Nzas",
+      "slug": "wele-nzas-gq204"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GQ204",
+      "level": 1,
+      "name": {
+        "local": "Wele-Nzas",
+        "en": "Wele-Nzas",
+        "slug": "wele-nzas-gq204"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.294",
+    "lon": "10.86"
+  },
+  "metadata": {},
+  "source": {}
+}

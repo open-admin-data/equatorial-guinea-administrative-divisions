@@ -1,0 +1,45 @@
+{
+  "id": "GQ202003",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "Micomeseng",
+    "en": "Micomeseng",
+    "slug": "micomeseng-gq202003"
+  },
+  "code": {
+    "id": "GQ202003",
+    "iso": null
+  },
+  "parent": {
+    "id": "GQ202",
+    "level": 1,
+    "name": {
+      "local": "Kié-Ntem",
+      "en": "Kié-Ntem",
+      "slug": "ki-ntem-gq202"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GQ202",
+      "level": 1,
+      "name": {
+        "local": "Kié-Ntem",
+        "en": "Kié-Ntem",
+        "slug": "ki-ntem-gq202"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.047",
+    "lon": "10.546"
+  },
+  "metadata": {},
+  "source": {}
+}

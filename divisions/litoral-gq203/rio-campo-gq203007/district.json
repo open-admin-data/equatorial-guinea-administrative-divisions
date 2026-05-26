@@ -1,0 +1,45 @@
+{
+  "id": "GQ203007",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rio Campo",
+    "en": "Rio Campo",
+    "slug": "rio-campo-gq203007"
+  },
+  "code": {
+    "id": "GQ203007",
+    "iso": null
+  },
+  "parent": {
+    "id": "GQ203",
+    "level": 1,
+    "name": {
+      "local": "Litoral",
+      "en": "Litoral",
+      "slug": "litoral-gq203"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GQ203",
+      "level": 1,
+      "name": {
+        "local": "Litoral",
+        "en": "Litoral",
+        "slug": "litoral-gq203"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.02",
+    "lon": "9.898"
+  },
+  "metadata": {},
+  "source": {}
+}

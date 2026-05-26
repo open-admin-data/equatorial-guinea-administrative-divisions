@@ -1,0 +1,45 @@
+{
+  "id": "GQ198002",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "San Antonio de Palé",
+    "en": "San Antonio de Palé",
+    "slug": "san-antonio-de-pal-gq198002"
+  },
+  "code": {
+    "id": "GQ198002",
+    "iso": null
+  },
+  "parent": {
+    "id": "GQ198",
+    "level": 1,
+    "name": {
+      "local": "Annobón",
+      "en": "Annobón",
+      "slug": "annobn-gq198"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GQ198",
+      "level": 1,
+      "name": {
+        "local": "Annobón",
+        "en": "Annobón",
+        "slug": "annobn-gq198"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.423",
+    "lon": "5.635"
+  },
+  "metadata": {},
+  "source": {}
+}

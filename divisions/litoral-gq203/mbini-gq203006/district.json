@@ -1,0 +1,45 @@
+{
+  "id": "GQ203006",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mbini",
+    "en": "Mbini",
+    "slug": "mbini-gq203006"
+  },
+  "code": {
+    "id": "GQ203006",
+    "iso": null
+  },
+  "parent": {
+    "id": "GQ203",
+    "level": 1,
+    "name": {
+      "local": "Litoral",
+      "en": "Litoral",
+      "slug": "litoral-gq203"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GQ203",
+      "level": 1,
+      "name": {
+        "local": "Litoral",
+        "en": "Litoral",
+        "slug": "litoral-gq203"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.366",
+    "lon": "9.617"
+  },
+  "metadata": {},
+  "source": {}
+}

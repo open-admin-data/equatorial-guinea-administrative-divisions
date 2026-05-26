@@ -1,0 +1,137 @@
+[
+  {
+    "id": "GQ199001",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Baney",
+      "en": "Baney",
+      "slug": "baney-gq199001"
+    },
+    "code": {
+      "id": "GQ199001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ199",
+      "level": 1,
+      "name": {
+        "local": "Bioko Norte",
+        "en": "Bioko Norte",
+        "slug": "bioko-norte-gq199"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ199",
+        "level": 1,
+        "name": {
+          "local": "Bioko Norte",
+          "en": "Bioko Norte",
+          "slug": "bioko-norte-gq199"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.626",
+      "lon": "8.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ199002",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Malabo",
+      "en": "Malabo",
+      "slug": "malabo-gq199002"
+    },
+    "code": {
+      "id": "GQ199002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ199",
+      "level": 1,
+      "name": {
+        "local": "Bioko Norte",
+        "en": "Bioko Norte",
+        "slug": "bioko-norte-gq199"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ199",
+        "level": 1,
+        "name": {
+          "local": "Bioko Norte",
+          "en": "Bioko Norte",
+          "slug": "bioko-norte-gq199"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.728",
+      "lon": "8.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ199003",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rebola",
+      "en": "Rebola",
+      "slug": "rebola-gq199003"
+    },
+    "code": {
+      "id": "GQ199003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ199",
+      "level": 1,
+      "name": {
+        "local": "Bioko Norte",
+        "en": "Bioko Norte",
+        "slug": "bioko-norte-gq199"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ199",
+        "level": 1,
+        "name": {
+          "local": "Bioko Norte",
+          "en": "Bioko Norte",
+          "slug": "bioko-norte-gq199"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.703",
+      "lon": "8.873"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "GQ204001",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "Aconibe",
+    "en": "Aconibe",
+    "slug": "aconibe-gq204001"
+  },
+  "code": {
+    "id": "GQ204001",
+    "iso": null
+  },
+  "parent": {
+    "id": "GQ204",
+    "level": 1,
+    "name": {
+      "local": "Wele-Nzas",
+      "en": "Wele-Nzas",
+      "slug": "wele-nzas-gq204"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GQ204",
+      "level": 1,
+      "name": {
+        "local": "Wele-Nzas",
+        "en": "Wele-Nzas",
+        "slug": "wele-nzas-gq204"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.212",
+    "lon": "11.061"
+  },
+  "metadata": {},
+  "source": {}
+}

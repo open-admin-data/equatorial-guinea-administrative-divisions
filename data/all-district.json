@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "GQ198001",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mabana",
+      "en": "Mabana",
+      "slug": "mabana-gq198001"
+    },
+    "code": {
+      "id": "GQ198001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ198",
+      "level": 1,
+      "name": {
+        "local": "Annobón",
+        "en": "Annobón",
+        "slug": "annobn-gq198"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ198",
+        "level": 1,
+        "name": {
+          "local": "Annobón",
+          "en": "Annobón",
+          "slug": "annobn-gq198"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.449",
+      "lon": "5.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ198002",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "San Antonio de Palé",
+      "en": "San Antonio de Palé",
+      "slug": "san-antonio-de-pal-gq198002"
+    },
+    "code": {
+      "id": "GQ198002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ198",
+      "level": 1,
+      "name": {
+        "local": "Annobón",
+        "en": "Annobón",
+        "slug": "annobn-gq198"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ198",
+        "level": 1,
+        "name": {
+          "local": "Annobón",
+          "en": "Annobón",
+          "slug": "annobn-gq198"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.423",
+      "lon": "5.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ199001",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Baney",
+      "en": "Baney",
+      "slug": "baney-gq199001"
+    },
+    "code": {
+      "id": "GQ199001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ199",
+      "level": 1,
+      "name": {
+        "local": "Bioko Norte",
+        "en": "Bioko Norte",
+        "slug": "bioko-norte-gq199"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ199",
+        "level": 1,
+        "name": {
+          "local": "Bioko Norte",
+          "en": "Bioko Norte",
+          "slug": "bioko-norte-gq199"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.626",
+      "lon": "8.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ199002",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Malabo",
+      "en": "Malabo",
+      "slug": "malabo-gq199002"
+    },
+    "code": {
+      "id": "GQ199002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ199",
+      "level": 1,
+      "name": {
+        "local": "Bioko Norte",
+        "en": "Bioko Norte",
+        "slug": "bioko-norte-gq199"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ199",
+        "level": 1,
+        "name": {
+          "local": "Bioko Norte",
+          "en": "Bioko Norte",
+          "slug": "bioko-norte-gq199"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.728",
+      "lon": "8.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ199003",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rebola",
+      "en": "Rebola",
+      "slug": "rebola-gq199003"
+    },
+    "code": {
+      "id": "GQ199003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ199",
+      "level": 1,
+      "name": {
+        "local": "Bioko Norte",
+        "en": "Bioko Norte",
+        "slug": "bioko-norte-gq199"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ199",
+        "level": 1,
+        "name": {
+          "local": "Bioko Norte",
+          "en": "Bioko Norte",
+          "slug": "bioko-norte-gq199"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.703",
+      "lon": "8.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ200001",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Luba",
+      "en": "Luba",
+      "slug": "luba-gq200001"
+    },
+    "code": {
+      "id": "GQ200001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ200",
+      "level": 1,
+      "name": {
+        "local": "Bioko Sur",
+        "en": "Bioko Sur",
+        "slug": "bioko-sur-gq200"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ200",
+        "level": 1,
+        "name": {
+          "local": "Bioko Sur",
+          "en": "Bioko Sur",
+          "slug": "bioko-sur-gq200"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.426",
+      "lon": "8.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ201001",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Acurenam",
+      "en": "Acurenam",
+      "slug": "acurenam-gq201001"
+    },
+    "code": {
+      "id": "GQ201001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ201",
+      "level": 1,
+      "name": {
+        "local": "Centro Sur",
+        "en": "Centro Sur",
+        "slug": "centro-sur-gq201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ201",
+        "level": 1,
+        "name": {
+          "local": "Centro Sur",
+          "en": "Centro Sur",
+          "slug": "centro-sur-gq201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.195",
+      "lon": "10.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ201002",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bicurga",
+      "en": "Bicurga",
+      "slug": "bicurga-gq201002"
+    },
+    "code": {
+      "id": "GQ201002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ201",
+      "level": 1,
+      "name": {
+        "local": "Centro Sur",
+        "en": "Centro Sur",
+        "slug": "centro-sur-gq201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ201",
+        "level": 1,
+        "name": {
+          "local": "Centro Sur",
+          "en": "Centro Sur",
+          "slug": "centro-sur-gq201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.666",
+      "lon": "10.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ201003",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Evinayong",
+      "en": "Evinayong",
+      "slug": "evinayong-gq201003"
+    },
+    "code": {
+      "id": "GQ201003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ201",
+      "level": 1,
+      "name": {
+        "local": "Centro Sur",
+        "en": "Centro Sur",
+        "slug": "centro-sur-gq201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ201",
+        "level": 1,
+        "name": {
+          "local": "Centro Sur",
+          "en": "Centro Sur",
+          "slug": "centro-sur-gq201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.446",
+      "lon": "10.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ201004",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Niefang",
+      "en": "Niefang",
+      "slug": "niefang-gq201004"
+    },
+    "code": {
+      "id": "GQ201004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ201",
+      "level": 1,
+      "name": {
+        "local": "Centro Sur",
+        "en": "Centro Sur",
+        "slug": "centro-sur-gq201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ201",
+        "level": 1,
+        "name": {
+          "local": "Centro Sur",
+          "en": "Centro Sur",
+          "slug": "centro-sur-gq201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.751",
+      "lon": "10.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ201005",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nkimi",
+      "en": "Nkimi",
+      "slug": "nkimi-gq201005"
+    },
+    "code": {
+      "id": "GQ201005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ201",
+      "level": 1,
+      "name": {
+        "local": "Centro Sur",
+        "en": "Centro Sur",
+        "slug": "centro-sur-gq201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ201",
+        "level": 1,
+        "name": {
+          "local": "Centro Sur",
+          "en": "Centro Sur",
+          "slug": "centro-sur-gq201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.993",
+      "lon": "10.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ202001",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bidjabidjan",
+      "en": "Bidjabidjan",
+      "slug": "bidjabidjan-gq202001"
+    },
+    "code": {
+      "id": "GQ202001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ202",
+      "level": 1,
+      "name": {
+        "local": "Kié-Ntem",
+        "en": "Kié-Ntem",
+        "slug": "ki-ntem-gq202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ202",
+        "level": 1,
+        "name": {
+          "local": "Kié-Ntem",
+          "en": "Kié-Ntem",
+          "slug": "ki-ntem-gq202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.816",
+      "lon": "11.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ202002",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ebebiyin",
+      "en": "Ebebiyin",
+      "slug": "ebebiyin-gq202002"
+    },
+    "code": {
+      "id": "GQ202002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ202",
+      "level": 1,
+      "name": {
+        "local": "Kié-Ntem",
+        "en": "Kié-Ntem",
+        "slug": "ki-ntem-gq202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ202",
+        "level": 1,
+        "name": {
+          "local": "Kié-Ntem",
+          "en": "Kié-Ntem",
+          "slug": "ki-ntem-gq202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.042",
+      "lon": "11.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ202003",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Micomeseng",
+      "en": "Micomeseng",
+      "slug": "micomeseng-gq202003"
+    },
+    "code": {
+      "id": "GQ202003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ202",
+      "level": 1,
+      "name": {
+        "local": "Kié-Ntem",
+        "en": "Kié-Ntem",
+        "slug": "ki-ntem-gq202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ202",
+        "level": 1,
+        "name": {
+          "local": "Kié-Ntem",
+          "en": "Kié-Ntem",
+          "slug": "ki-ntem-gq202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.047",
+      "lon": "10.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ202004",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nasng",
+      "en": "Nasng",
+      "slug": "nasng-gq202004"
+    },
+    "code": {
+      "id": "GQ202004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ202",
+      "level": 1,
+      "name": {
+        "local": "Kié-Ntem",
+        "en": "Kié-Ntem",
+        "slug": "ki-ntem-gq202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ202",
+        "level": 1,
+        "name": {
+          "local": "Kié-Ntem",
+          "en": "Kié-Ntem",
+          "slug": "ki-ntem-gq202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.983",
+      "lon": "11.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ202005",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nkue",
+      "en": "Nkue",
+      "slug": "nkue-gq202005"
+    },
+    "code": {
+      "id": "GQ202005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ202",
+      "level": 1,
+      "name": {
+        "local": "Kié-Ntem",
+        "en": "Kié-Ntem",
+        "slug": "ki-ntem-gq202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ202",
+        "level": 1,
+        "name": {
+          "local": "Kié-Ntem",
+          "en": "Kié-Ntem",
+          "slug": "ki-ntem-gq202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.054",
+      "lon": "10.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ202006",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nsok-Nsomo",
+      "en": "Nsok-Nsomo",
+      "slug": "nsok-nsomo-gq202006"
+    },
+    "code": {
+      "id": "GQ202006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ202",
+      "level": 1,
+      "name": {
+        "local": "Kié-Ntem",
+        "en": "Kié-Ntem",
+        "slug": "ki-ntem-gq202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ202",
+        "level": 1,
+        "name": {
+          "local": "Kié-Ntem",
+          "en": "Kié-Ntem",
+          "slug": "ki-ntem-gq202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.81",
+      "lon": "11.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ203001",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bata",
+      "en": "Bata",
+      "slug": "bata-gq203001"
+    },
+    "code": {
+      "id": "GQ203001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ203",
+      "level": 1,
+      "name": {
+        "local": "Litoral",
+        "en": "Litoral",
+        "slug": "litoral-gq203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ203",
+        "level": 1,
+        "name": {
+          "local": "Litoral",
+          "en": "Litoral",
+          "slug": "litoral-gq203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.738",
+      "lon": "9.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ203002",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bitica",
+      "en": "Bitica",
+      "slug": "bitica-gq203002"
+    },
+    "code": {
+      "id": "GQ203002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ203",
+      "level": 1,
+      "name": {
+        "local": "Litoral",
+        "en": "Litoral",
+        "slug": "litoral-gq203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ203",
+        "level": 1,
+        "name": {
+          "local": "Litoral",
+          "en": "Litoral",
+          "slug": "litoral-gq203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.424",
+      "lon": "9.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ203003",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cogo",
+      "en": "Cogo",
+      "slug": "cogo-gq203003"
+    },
+    "code": {
+      "id": "GQ203003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ203",
+      "level": 1,
+      "name": {
+        "local": "Litoral",
+        "en": "Litoral",
+        "slug": "litoral-gq203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ203",
+        "level": 1,
+        "name": {
+          "local": "Litoral",
+          "en": "Litoral",
+          "slug": "litoral-gq203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.2",
+      "lon": "9.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ203004",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Corisco",
+      "en": "Corisco",
+      "slug": "corisco-gq203004"
+    },
+    "code": {
+      "id": "GQ203004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ203",
+      "level": 1,
+      "name": {
+        "local": "Litoral",
+        "en": "Litoral",
+        "slug": "litoral-gq203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ203",
+        "level": 1,
+        "name": {
+          "local": "Litoral",
+          "en": "Litoral",
+          "slug": "litoral-gq203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.914",
+      "lon": "9.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ203005",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Machinda",
+      "en": "Machinda",
+      "slug": "machinda-gq203005"
+    },
+    "code": {
+      "id": "GQ203005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ203",
+      "level": 1,
+      "name": {
+        "local": "Litoral",
+        "en": "Litoral",
+        "slug": "litoral-gq203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ203",
+        "level": 1,
+        "name": {
+          "local": "Litoral",
+          "en": "Litoral",
+          "slug": "litoral-gq203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.087",
+      "lon": "9.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ203006",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mbini",
+      "en": "Mbini",
+      "slug": "mbini-gq203006"
+    },
+    "code": {
+      "id": "GQ203006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ203",
+      "level": 1,
+      "name": {
+        "local": "Litoral",
+        "en": "Litoral",
+        "slug": "litoral-gq203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ203",
+        "level": 1,
+        "name": {
+          "local": "Litoral",
+          "en": "Litoral",
+          "slug": "litoral-gq203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.366",
+      "lon": "9.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ203007",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rio Campo",
+      "en": "Rio Campo",
+      "slug": "rio-campo-gq203007"
+    },
+    "code": {
+      "id": "GQ203007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ203",
+      "level": 1,
+      "name": {
+        "local": "Litoral",
+        "en": "Litoral",
+        "slug": "litoral-gq203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ203",
+        "level": 1,
+        "name": {
+          "local": "Litoral",
+          "en": "Litoral",
+          "slug": "litoral-gq203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.02",
+      "lon": "9.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ204001",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Aconibe",
+      "en": "Aconibe",
+      "slug": "aconibe-gq204001"
+    },
+    "code": {
+      "id": "GQ204001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ204",
+      "level": 1,
+      "name": {
+        "local": "Wele-Nzas",
+        "en": "Wele-Nzas",
+        "slug": "wele-nzas-gq204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ204",
+        "level": 1,
+        "name": {
+          "local": "Wele-Nzas",
+          "en": "Wele-Nzas",
+          "slug": "wele-nzas-gq204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.212",
+      "lon": "11.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ204002",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Añisok",
+      "en": "Añisok",
+      "slug": "aisok-gq204002"
+    },
+    "code": {
+      "id": "GQ204002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ204",
+      "level": 1,
+      "name": {
+        "local": "Wele-Nzas",
+        "en": "Wele-Nzas",
+        "slug": "wele-nzas-gq204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ204",
+        "level": 1,
+        "name": {
+          "local": "Wele-Nzas",
+          "en": "Wele-Nzas",
+          "slug": "wele-nzas-gq204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.775",
+      "lon": "10.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ204004",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ciudad Nueva Oyala",
+      "en": "Ciudad Nueva Oyala",
+      "slug": "ciudad-nueva-oyala-gq204004"
+    },
+    "code": {
+      "id": "GQ204004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ204",
+      "level": 1,
+      "name": {
+        "local": "Wele-Nzas",
+        "en": "Wele-Nzas",
+        "slug": "wele-nzas-gq204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ204",
+        "level": 1,
+        "name": {
+          "local": "Wele-Nzas",
+          "en": "Wele-Nzas",
+          "slug": "wele-nzas-gq204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.681",
+      "lon": "10.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ204005",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mongomeyen",
+      "en": "Mongomeyen",
+      "slug": "mongomeyen-gq204005"
+    },
+    "code": {
+      "id": "GQ204005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ204",
+      "level": 1,
+      "name": {
+        "local": "Wele-Nzas",
+        "en": "Wele-Nzas",
+        "slug": "wele-nzas-gq204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ204",
+        "level": 1,
+        "name": {
+          "local": "Wele-Nzas",
+          "en": "Wele-Nzas",
+          "slug": "wele-nzas-gq204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.294",
+      "lon": "10.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ204006",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mongomo",
+      "en": "Mongomo",
+      "slug": "mongomo-gq204006"
+    },
+    "code": {
+      "id": "GQ204006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ204",
+      "level": 1,
+      "name": {
+        "local": "Wele-Nzas",
+        "en": "Wele-Nzas",
+        "slug": "wele-nzas-gq204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ204",
+        "level": 1,
+        "name": {
+          "local": "Wele-Nzas",
+          "en": "Wele-Nzas",
+          "slug": "wele-nzas-gq204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.616",
+      "lon": "11.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ204007",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nsork",
+      "en": "Nsork",
+      "slug": "nsork-gq204007"
+    },
+    "code": {
+      "id": "GQ204007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ204",
+      "level": 1,
+      "name": {
+        "local": "Wele-Nzas",
+        "en": "Wele-Nzas",
+        "slug": "wele-nzas-gq204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ204",
+        "level": 1,
+        "name": {
+          "local": "Wele-Nzas",
+          "en": "Wele-Nzas",
+          "slug": "wele-nzas-gq204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.191",
+      "lon": "11.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ204003",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ayene",
+      "en": "Ayene",
+      "slug": "ayene-gq204003"
+    },
+    "code": {
+      "id": "GQ204003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ204",
+      "level": 1,
+      "name": {
+        "local": "Wele-Nzas",
+        "en": "Wele-Nzas",
+        "slug": "wele-nzas-gq204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ204",
+        "level": 1,
+        "name": {
+          "local": "Wele-Nzas",
+          "en": "Wele-Nzas",
+          "slug": "wele-nzas-gq204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.491",
+      "lon": "10.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GQ200002",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Riaba",
+      "en": "Riaba",
+      "slug": "riaba-gq200002"
+    },
+    "code": {
+      "id": "GQ200002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GQ200",
+      "level": 1,
+      "name": {
+        "local": "Bioko Sur",
+        "en": "Bioko Sur",
+        "slug": "bioko-sur-gq200"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GQ200",
+        "level": 1,
+        "name": {
+          "local": "Bioko Sur",
+          "en": "Bioko Sur",
+          "slug": "bioko-sur-gq200"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.407",
+      "lon": "8.744"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

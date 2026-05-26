@@ -1,0 +1,45 @@
+{
+  "id": "GQ201003",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "Evinayong",
+    "en": "Evinayong",
+    "slug": "evinayong-gq201003"
+  },
+  "code": {
+    "id": "GQ201003",
+    "iso": null
+  },
+  "parent": {
+    "id": "GQ201",
+    "level": 1,
+    "name": {
+      "local": "Centro Sur",
+      "en": "Centro Sur",
+      "slug": "centro-sur-gq201"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GQ201",
+      "level": 1,
+      "name": {
+        "local": "Centro Sur",
+        "en": "Centro Sur",
+        "slug": "centro-sur-gq201"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.446",
+    "lon": "10.468"
+  },
+  "metadata": {},
+  "source": {}
+}

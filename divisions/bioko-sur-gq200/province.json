@@ -1,0 +1,29 @@
+{
+  "id": "GQ200",
+  "level": 1,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Bioko Sur",
+    "en": "Bioko Sur",
+    "slug": "bioko-sur-gq200"
+  },
+  "code": {
+    "id": "GQ200",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.427",
+    "lon": "8.622"
+  },
+  "metadata": {},
+  "source": {}
+}

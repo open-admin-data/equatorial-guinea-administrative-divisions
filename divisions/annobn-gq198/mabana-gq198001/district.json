@@ -1,0 +1,45 @@
+{
+  "id": "GQ198001",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mabana",
+    "en": "Mabana",
+    "slug": "mabana-gq198001"
+  },
+  "code": {
+    "id": "GQ198001",
+    "iso": null
+  },
+  "parent": {
+    "id": "GQ198",
+    "level": 1,
+    "name": {
+      "local": "Annobón",
+      "en": "Annobón",
+      "slug": "annobn-gq198"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GQ198",
+      "level": 1,
+      "name": {
+        "local": "Annobón",
+        "en": "Annobón",
+        "slug": "annobn-gq198"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.449",
+    "lon": "5.637"
+  },
+  "metadata": {},
+  "source": {}
+}

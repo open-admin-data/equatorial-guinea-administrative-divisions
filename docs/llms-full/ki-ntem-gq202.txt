@@ -1,0 +1,39 @@
+# Kié-Ntem — Equatorial Guinea Administrative Divisions
+
+> 6 districts
+> Code: GQ202
+> Coordinates: 1.948, 11.14
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Districts
+
+### Bidjabidjan
+
+Code: GQ202001, Coordinates: 1.816, 11.265
+
+
+### Ebebiyin
+
+Code: GQ202002, Coordinates: 2.042, 11.221
+
+
+### Micomeseng
+
+Code: GQ202003, Coordinates: 2.047, 10.546
+
+
+### Nasng
+
+Code: GQ202004, Coordinates: 1.983, 11.025
+
+
+### Nkue
+
+Code: GQ202005, Coordinates: 2.054, 10.782
+
+
+### Nsok-Nsomo
+
+Code: GQ202006, Coordinates: 1.81, 11.085
+
+

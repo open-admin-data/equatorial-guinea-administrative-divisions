@@ -1,0 +1,29 @@
+{
+  "id": "GQ201",
+  "level": 1,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Centro Sur",
+    "en": "Centro Sur",
+    "slug": "centro-sur-gq201"
+  },
+  "code": {
+    "id": "GQ201",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.585",
+    "lon": "10.258"
+  },
+  "metadata": {},
+  "source": {}
+}

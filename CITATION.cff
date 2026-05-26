@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Equatorial Guinea Administrative Divisions Dataset"
+version: "2026.05"
+date-released: "2026-05-26"
+url: "https://github.com/open-admin-data/equatorial-guinea-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/equatorial-guinea-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - equatorial guinea
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Equatorial Guinea's administrative hierarchy:
+  7 provinces, 32 districts.
+  Bilingual with coordinates and postal codes where available.

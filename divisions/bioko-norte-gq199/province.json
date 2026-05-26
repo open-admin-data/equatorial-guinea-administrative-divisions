@@ -1,0 +1,29 @@
+{
+  "id": "GQ199",
+  "level": 1,
+  "level_name": {
+    "local": "Provincia",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Bioko Norte",
+    "en": "Bioko Norte",
+    "slug": "bioko-norte-gq199"
+  },
+  "code": {
+    "id": "GQ199",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.662",
+    "lon": "8.775"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GQ200001",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "Luba",
+    "en": "Luba",
+    "slug": "luba-gq200001"
+  },
+  "code": {
+    "id": "GQ200001",
+    "iso": null
+  },
+  "parent": {
+    "id": "GQ200",
+    "level": 1,
+    "name": {
+      "local": "Bioko Sur",
+      "en": "Bioko Sur",
+      "slug": "bioko-sur-gq200"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GQ200",
+      "level": 1,
+      "name": {
+        "local": "Bioko Sur",
+        "en": "Bioko Sur",
+        "slug": "bioko-sur-gq200"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.426",
+    "lon": "8.568"
+  },
+  "metadata": {},
+  "source": {}
+}

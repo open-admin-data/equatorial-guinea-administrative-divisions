@@ -1,0 +1,19 @@
+# Annobón — Equatorial Guinea Administrative Divisions
+
+> 2 districts
+> Code: GQ198
+> Coordinates: -1.435, 5.639
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Districts
+
+### Mabana
+
+Code: GQ198001, Coordinates: -1.449, 5.637
+
+
+### San Antonio de Palé
+
+Code: GQ198002, Coordinates: -1.423, 5.635
+
+

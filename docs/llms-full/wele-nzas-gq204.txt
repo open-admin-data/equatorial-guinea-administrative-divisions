@@ -1,0 +1,44 @@
+# Wele-Nzas — Equatorial Guinea Administrative Divisions
+
+> 7 districts
+> Code: GQ204
+> Coordinates: 1.497, 11.108
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Districts
+
+### Aconibe
+
+Code: GQ204001, Coordinates: 1.212, 11.061
+
+
+### Añisok
+
+Code: GQ204002, Coordinates: 1.775, 10.895
+
+
+### Ayene
+
+Code: GQ204003, Coordinates: 1.491, 10.991
+
+
+### Ciudad Nueva Oyala
+
+Code: GQ204004, Coordinates: 1.681, 10.691
+
+
+### Mongomeyen
+
+Code: GQ204005, Coordinates: 1.294, 10.86
+
+
+### Mongomo
+
+Code: GQ204006, Coordinates: 1.616, 11.184
+
+
+### Nsork
+
+Code: GQ204007, Coordinates: 1.191, 11.272
+
+
