@@ -25,5 +25,9 @@
     "lon": "10.258"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gq/provinces/centro-sur-gq201/",
+    "api": "https://openadmindata.org/api/gq/"
+  }
 }

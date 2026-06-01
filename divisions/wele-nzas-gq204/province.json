@@ -25,5 +25,9 @@
     "lon": "11.108"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gq/provinces/wele-nzas-gq204/",
+    "api": "https://openadmindata.org/api/gq/"
+  }
 }

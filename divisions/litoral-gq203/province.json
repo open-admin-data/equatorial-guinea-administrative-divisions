@@ -25,5 +25,9 @@
     "lon": "9.796"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gq/provinces/litoral-gq203/",
+    "api": "https://openadmindata.org/api/gq/"
+  }
 }

@@ -1,8 +1,9 @@
-id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.province,children_count.district,zip_codes,geo.lat,geo.lon
-GQ198,1,Provincia,Province,Annobón,Annobón,annobn-gq198,GQ198,,,,,,2,,-1.435,5.639
-GQ199,1,Provincia,Province,Bioko Norte,Bioko Norte,bioko-norte-gq199,GQ199,,,,,,3,,3.662,8.775
-GQ200,1,Provincia,Province,Bioko Sur,Bioko Sur,bioko-sur-gq200,GQ200,,,,,,2,,3.427,8.622
-GQ201,1,Provincia,Province,Centro Sur,Centro Sur,centro-sur-gq201,GQ201,,,,,,5,,1.585,10.258
-GQ202,1,Provincia,Province,Kié-Ntem,Kié-Ntem,ki-ntem-gq202,GQ202,,,,,,6,,1.948,11.14
-GQ203,1,Provincia,Province,Litoral,Litoral,litoral-gq203,GQ203,,,,,,7,,1.634,9.796
-GQ204,1,Provincia,Province,Wele-Nzas,Wele-Nzas,wele-nzas-gq204,GQ204,,,,,,7,,1.497,11.108
+# Data from Open Admin Data (https://openadmindata.org/gq/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/equatorial-guinea-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.province,children_count.district,zip_codes,geo.lat,geo.lon,source_url
+GQ198,1,Provincia,Province,Annobón,Annobón,annobn-gq198,GQ198,,,,,,2,,-1.435,5.639,https://openadmindata.org/gq/provinces/annobn-gq198/
+GQ199,1,Provincia,Province,Bioko Norte,Bioko Norte,bioko-norte-gq199,GQ199,,,,,,3,,3.662,8.775,https://openadmindata.org/gq/provinces/bioko-norte-gq199/
+GQ200,1,Provincia,Province,Bioko Sur,Bioko Sur,bioko-sur-gq200,GQ200,,,,,,2,,3.427,8.622,https://openadmindata.org/gq/provinces/bioko-sur-gq200/
+GQ201,1,Provincia,Province,Centro Sur,Centro Sur,centro-sur-gq201,GQ201,,,,,,5,,1.585,10.258,https://openadmindata.org/gq/provinces/centro-sur-gq201/
+GQ202,1,Provincia,Province,Kié-Ntem,Kié-Ntem,ki-ntem-gq202,GQ202,,,,,,6,,1.948,11.14,https://openadmindata.org/gq/provinces/ki-ntem-gq202/
+GQ203,1,Provincia,Province,Litoral,Litoral,litoral-gq203,GQ203,,,,,,7,,1.634,9.796,https://openadmindata.org/gq/provinces/litoral-gq203/
+GQ204,1,Provincia,Province,Wele-Nzas,Wele-Nzas,wele-nzas-gq204,GQ204,,,,,,7,,1.497,11.108,https://openadmindata.org/gq/provinces/wele-nzas-gq204/

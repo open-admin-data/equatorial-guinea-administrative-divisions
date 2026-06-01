@@ -25,5 +25,9 @@
     "lon": "11.14"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gq/provinces/ki-ntem-gq202/",
+    "api": "https://openadmindata.org/api/gq/"
+  }
 }

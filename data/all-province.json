@@ -26,7 +26,11 @@
       "lon": "5.639"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gq/provinces/annobn-gq198/",
+      "api": "https://openadmindata.org/api/gq/"
+    }
   },
   {
     "id": "GQ199",
@@ -55,7 +59,11 @@
       "lon": "8.775"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gq/provinces/bioko-norte-gq199/",
+      "api": "https://openadmindata.org/api/gq/"
+    }
   },
   {
     "id": "GQ200",
@@ -84,7 +92,11 @@
       "lon": "8.622"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gq/provinces/bioko-sur-gq200/",
+      "api": "https://openadmindata.org/api/gq/"
+    }
   },
   {
     "id": "GQ201",
@@ -113,7 +125,11 @@
       "lon": "10.258"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gq/provinces/centro-sur-gq201/",
+      "api": "https://openadmindata.org/api/gq/"
+    }
   },
   {
     "id": "GQ202",
@@ -142,7 +158,11 @@
       "lon": "11.14"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gq/provinces/ki-ntem-gq202/",
+      "api": "https://openadmindata.org/api/gq/"
+    }
   },
   {
     "id": "GQ203",
@@ -171,7 +191,11 @@
       "lon": "9.796"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gq/provinces/litoral-gq203/",
+      "api": "https://openadmindata.org/api/gq/"
+    }
   },
   {
     "id": "GQ204",
@@ -200,6 +224,10 @@
       "lon": "11.108"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/gq/provinces/wele-nzas-gq204/",
+      "api": "https://openadmindata.org/api/gq/"
+    }
   }
 ]
