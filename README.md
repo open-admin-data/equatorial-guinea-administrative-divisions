@@ -11,9 +11,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-06-01 |
+| Last Updated | 2026-08-19 |
 | Website | [openadmindata.org/gq](https://openadmindata.org/gq/) |
 | API | [openadmindata.org/api/gq](https://openadmindata.org/api/gq/) |
+| National Anthem | [🎵 Listen & Download Equatorial Guinea National Anthem MP3](https://onlygames.me/national-anthems/gq/) |
 
 ## Browse by Province
 
